@@ -1,0 +1,47 @@
+.heading {
+    background-color:lightskyblue;
+    color: #ffffff;
+    font-family:Montserrat;
+    border-radius:30px;
+    margin:0px;
+    font-size: 30px;
+}
+
+.note {
+    background-color: #a7dee1;
+    font-size:20px;
+    border-radius: 20px;
+  
+}
+
+.footer {
+  position:fixed;
+  text-align: center;
+  bottom: 0px;
+  width:100%;
+  background-color:plum;
+  color: #ffffff;
+}
+
+
+canvas{
+    border: 5px dashed rgb(253, 227, 62);
+    margin-top:40px;
+}
+body {
+   background-image: url(background.jpg);
+  
+}
+
+#size {
+  color:rgb(253, 227, 62);
+  font-weight: bold;
+}
+#name{
+  width:150px;
+}
+
+#col{
+  width:150px;
+  color: #ffffff;
+}
